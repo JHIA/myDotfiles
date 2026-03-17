@@ -1,0 +1,8 @@
+// move rofi template (squared-everforest.rasi)  to /usr/share/rofi/themes/
+@theme "/usr/share/rofi/themes/squared-everforest.rasi"
+
+configuration {
+	show-icons: true;                  	
+	icon-theme: "Gruvbox-Plus-Dark";   
+	border-radius: 0px;
+}

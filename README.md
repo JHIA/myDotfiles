@@ -48,6 +48,8 @@ To achieve this look, I use the following amazing themes and resources:
 ---
 
 ## 📸 Screenshoot
+![Desktop Setup](./screenshot2.png)
+
 ![Desktop Setup](./screenshot.png)
 
 ## 🚀 Installation & Setup
